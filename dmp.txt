@@ -1,0 +1,360 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bohusläns ornitologiska förening - ECPv4.9.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bohusläns ornitologiska förening
+X-ORIGINAL-URL:http://bohof.com
+X-WR-CALDESC:Händelser för Bohusläns ornitologiska förening
+BEGIN:VTIMEZONE
+TZID:"Europe/Stockholm"
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20190331T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20191027T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190813T173000
+DTEND;TZID="Europe/Stockholm":20190813T173000
+DTSTAMP:20190813T094223
+CREATED:20190813T091437Z
+LAST-MODIFIED:20190813T091444Z
+UID:4258779395-1565717400-1565717400@bohof.com
+SUMMARY:TISDAGSKVÄLL FRÅN UDDEVALLA
+DESCRIPTION:Vi träffas strax innan på Volvo Brandt på Fröland för att åka iväg kl 17:30 till en fågellokal som bestäms samma dag pga väder\, vind och utbud på fågel. Ta med fika. Kontaktperson Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/tisdagskvall-fran-uddevalla/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190817
+DTEND;VALUE=DATE:20190818
+DTSTAMP:20190813T094223
+CREATED:20190105T132556Z
+LAST-MODIFIED:20190813T091343Z
+UID:4258779121-1566000000-1566086399@bohof.com
+SUMMARY:Vadare längs hallandskusten - UPPDATERAT DATUM
+DESCRIPTION:Vi tar en tur till Halland och tittar på de vadare som rastar längs kusten på sin väg söderut. Vi fördjupar oss i vadarnas dräkter\, likheter och skillnader\, men självklart tittar vi också på andra fåglar som kommer i vår väg. Vi besöker de klassiska lokalerna längs kusten\, bland annat Getterön och Morups Tånge\, lite beroende på var fåglarna finns. Ta med kikare\, fågelbok\, tubkikare och matsäck för en heldag i fält.Samåkning från Ljungskile\, Uddevalla kl 07:00 och från Kode\, E6 ca 07:30.\nAnmälan till Agneta senast 6/8.\nKontaktpersoner Agneta Olsson 070-317 41 12 och Anne-Marie Barregren 070-557 68 64. \n
+URL:http://bohof.com/evenemang/vadare-langs-hallandskusten/
+CATEGORIES:För kvinnor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190820T173000
+DTEND;TZID="Europe/Stockholm":20190820T173000
+DTSTAMP:20190813T094223
+CREATED:20190813T091510Z
+LAST-MODIFIED:20190813T091510Z
+UID:4258779397-1566322200-1566322200@bohof.com
+SUMMARY:TISDAGSKVÄLL FRÅN UDDEVALLA
+DESCRIPTION:Vi träffas strax innan på Volvo Brandt på Fröland för att åka iväg kl 17:30 till en fågellokal som bestäms samma dag pga väder\, vind och utbud på fågel. Ta med fika. Kontaktperson Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/tisdagskvall-fran-uddevalla-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190822T173000
+DTEND;TZID="Europe/Stockholm":20190822T173000
+DTSTAMP:20190813T094223
+CREATED:20190813T091552Z
+LAST-MODIFIED:20190813T091609Z
+UID:4258779399-1566495000-1566495000@bohof.com
+SUMMARY:VADARE & ROVFÅGLAR PÅ MOLLÖN
+DESCRIPTION:Vi tittar efter fåglar som är på återflytt och hoppas på en del vadare och rovfåglar såsom fiskgjuse och kärrhökar. Ta med fika. \nSamling vid parkeringen på Mollön i Uddevalla kl 17:30. \nKontaktperson Jörgen Olsson 072-547 60 12. \n
+URL:http://bohof.com/evenemang/vadare-rovfaglar-pa-mollon/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190824T074500
+DTEND;TZID="Europe/Stockholm":20190824T074500
+DTSTAMP:20190813T094223
+CREATED:20190105T132556Z
+LAST-MODIFIED:20190105T132556Z
+UID:4258779122-1566632700-1566632700@bohof.com
+SUMMARY:Havsfågel på nära håll
+DESCRIPTION:Vi åker en bra bit utanför Väderöarna denna dag. Därute kommer vi att stanna ca 2 timmar för att chumma\,\ndvs. kasta ut en go blandning av fisk m.m. Detta lockar\ntill sig trutar som då lockar till sig lite mer intressanta\nfåglar. Förra året fick vi se stormfågel\, havssula\, kustlabb\noch alkor. Vad kommer vi att få se denna gång? Ta gärna\nmed kamera då vi hoppas på fotografiska ögonblick!\nMedtag fika och varma kläder. Vi samlas i Fjällbacka kl\n07:45\, båten går kl 08:00 och vi är åter kl 14:00.\nMax 12 deltagare. Kostnaden är till självkostnadspris\n500:-. Blåser det för mycket blir resan inställd och i så\nfall återbetalas pengarna. Anmälan till Sussie och betalning när båten är full. Kontaktpersoner Sussie Carlström 073-690 41 60 & Peter Nilsson 070-423 92 97. \n
+URL:http://bohof.com/evenemang/havsfa%cc%8agel-pa%cc%8a-na%cc%88ra-ha%cc%8all/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190824T074500
+DTEND;TZID="Europe/Stockholm":20190824T140000
+DTSTAMP:20190813T094223
+CREATED:20190813T091642Z
+LAST-MODIFIED:20190813T091642Z
+UID:4258779402-1566632700-1566655200@bohof.com
+SUMMARY:HAVSFÅGEL PÅ NÄRA HÅLL
+DESCRIPTION:Vi åker en bra bit utanför Väderöarna denna dag. Där ute kommer vi att stanna ca 2 timmar för att chumma\, dvs. kasta ut en go blandning av fisk m.m. Detta lockar till sig trutar som då lockar till sig lite mer intressanta fåglar. Förra året fick vi se stormfågel\, havssula\, kustlabb och alkor. Vad kommer vi att få se denna gång? Ta gärna med kamera då vi hoppas på fotografiska ögonblick! Medtag fika och varma kläder. Vi samlas i Fjällbacka kl 07:45\, båten går kl 08:00 och vi är åter kl 14:00.  \nMax 12 deltagare. Kostnaden är till självkostnadspris 500:-. Blåser det för mycket blir resan inställd och i så fall återbetalas pengarna. \nAnmälan och betalning senast 15/8 till Sussie. \nKontaktpersoner Sussie Carlström 073-690 41 60 & Peter Nilsson 070-423 92 97. \n
+URL:http://bohof.com/evenemang/havsfagel-pa-nara-hall/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190825
+DTEND;VALUE=DATE:20190826
+DTSTAMP:20190813T094223
+CREATED:20190105T132556Z
+LAST-MODIFIED:20190813T091258Z
+UID:4258779123-1566691200-1566777599@bohof.com
+SUMMARY:Hallandstur
+DESCRIPTION:Denna dag tar vi en tur längs hallandskusten för att se vad höststräcket erbjuder. Då detär säsong för vadare bör vi kunna se 20 vadararter eller fler. Vi hoppas få syn på arter som sandlöpare\, myrsnäppa\, rödspov och roskarl för att nämna några. Förhoppningsvis dyker det upp någon extra intressant art\, vilket det brukar göra. Vi besöker de klassiska lokalerna längs kusten och då bland annat Morups Tånge och Getterön. Ta med fika för en heldag. Tid fås vid anmälan. Anmälan senast 18/8 till Torbjörn Arvidsson 070-238 73 04. \n
+URL:http://bohof.com/evenemang/hallandstur/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190827T173000
+DTEND;TZID="Europe/Stockholm":20190827T173000
+DTSTAMP:20190813T094223
+CREATED:20190813T091938Z
+LAST-MODIFIED:20190813T091938Z
+UID:4258779404-1566927000-1566927000@bohof.com
+SUMMARY:TISDAGSKVÄLL FRÅN UDDEVALLA
+DESCRIPTION:Vi träffas strax innan på Volvo Brandt på Fröland för att åka iväg kl 17:30 till en fågellokal som bestäms samma dag pga väder\, vind och utbud på fågel. Ta med fika. Kontaktperson Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/tisdagskvall-fran-uddevalla-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190829T173000
+DTEND;TZID="Europe/Stockholm":20190829T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T092021Z
+LAST-MODIFIED:20190813T092021Z
+UID:4258779406-1567099800-1567108800@bohof.com
+SUMMARY:GROSSHAMN\, RAMSVIKSLANDET
+DESCRIPTION:Vi går runt nere på Grosshamn för att se vad lokalen bjuder på denna kväll. Vi hoppas på att få se vadare\, änder och småfågel. Beroende på tid och möjlighet åker vi vidare till Ramsvik och Haby och ta en snabb span över vattnet. Samling vid Grosshamns parkering kl 17:30. Samåkning kan ske från Uddevalla och ta med fika. Kontaktpersoner Per Wohlin och Sussie Carlström och anmälan senast 28/8 till Sussie 073-690 41 60. \n
+URL:http://bohof.com/evenemang/grosshamn-ramsvikslandet/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190901T090000
+DTEND;TZID="Europe/Stockholm":20190901T100000
+DTSTAMP:20190813T094223
+CREATED:20190813T092101Z
+LAST-MODIFIED:20190813T092101Z
+UID:4258779408-1567328400-1567332000@bohof.com
+SUMMARY:TILLBAKAFLYTTNING PÅ SVÄLTE KILE
+DESCRIPTION:Vi skådar från kl 09:00 från fågeltornet och beroende på fågeltillgången står vi 1-2 timmar och spanar. Vi hoppas på vadare\, änder\, skäggdopping och någon rovfågel. \nKontaktperson Peter Nilsson 070-423 92 97. \n
+URL:http://bohof.com/evenemang/tillbakaflyttning-pa-svalte-kile/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190903T173000
+DTEND;TZID="Europe/Stockholm":20190903T173000
+DTSTAMP:20190813T094223
+CREATED:20190813T092136Z
+LAST-MODIFIED:20190813T092136Z
+UID:4258779410-1567531800-1567531800@bohof.com
+SUMMARY:TISDAGSKVÄLL FRÅN UDDEVALLA
+DESCRIPTION:Vi träffas strax innan på Volvo Brandt på Fröland för att åka iväg kl 17:30 till en fågellokal som bestäms samma dag pga väder\, vind och utbud på fågel. Ta med fika. Kontaktperson Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/tisdagskvall-fran-uddevalla-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190905T173000
+DTEND;TZID="Europe/Stockholm":20190905T193000
+DTSTAMP:20190813T094223
+CREATED:20190813T092234Z
+LAST-MODIFIED:20190813T092234Z
+UID:4258779412-1567704600-1567711800@bohof.com
+SUMMARY:ÄLJE PORSEN\, UDDEVALLA
+DESCRIPTION:Vi träffas på parkeringen och går lite i reservatet före vi ställer oss i fågeltornet och har fin utsikt över området\, vi fikar och tittar på de fåglar som rastar eller flyger förbi. Samling vid Älje Porsens parkering kl 17:30. Kontaktpersoner Per Wohlin och Sussie Carlström och anmälan senast 4/9 till Sussie 073-690 41 60. \n
+URL:http://bohof.com/evenemang/alje-porsen-uddevalla/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190907T060000
+DTEND;TZID="Europe/Stockholm":20190907T060000
+DTSTAMP:20190813T094223
+CREATED:20190813T092315Z
+LAST-MODIFIED:20190813T092315Z
+UID:4258779414-1567836000-1567836000@bohof.com
+SUMMARY:STRÄCKSKÅDNING BREDFJÄLLET
+DESCRIPTION:Idag ska vi bege oss upp i skogarna öster om Ljungskile och ställa oss i ett fågeltorn på norra fjället. Så här års är sträcket söderut omfattande av både tättingar och rovfåglar så vi hoppas på en god skådardag. Samling kl 06:00 vid Ljungskile station. Ta med fika. \nKontaktperson Stefan Malm 076-100 51 84. \n
+URL:http://bohof.com/evenemang/strackskadning-bredfjallet/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190910T173000
+DTEND;TZID="Europe/Stockholm":20190910T173000
+DTSTAMP:20190813T094223
+CREATED:20190813T092343Z
+LAST-MODIFIED:20190813T092343Z
+UID:4258779416-1568136600-1568136600@bohof.com
+SUMMARY:TISDAGSKVÄLL FRÅN UDDEVALLA
+DESCRIPTION:Vi träffas strax innan på̊ Volvo Brandt på Fröland för att åka iväg kl 17:30 till en fågellokal som bestäms samma dag pga väder\, vind och utbud på̊ fågel. Ta med fika. Kontaktperson Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/tisdagskvall-fran-uddevalla-5/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190917T173000
+DTEND;TZID="Europe/Stockholm":20190917T173000
+DTSTAMP:20190813T094223
+CREATED:20190813T092409Z
+LAST-MODIFIED:20190813T092409Z
+UID:4258779418-1568741400-1568741400@bohof.com
+SUMMARY:TISDAGSKVÄLL FRÅN UDDEVALLA
+DESCRIPTION:Vi träffas strax innan på Volvo Brandt på Fröland för att åka iväg kl 17:30 till en fågellokal som bestäms samma dag pga väder\, vind och utbud på fågel. Ta med fika. Kontaktperson Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/tisdagskvall-fran-uddevalla-6/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190921T060000
+DTEND;TZID="Europe/Stockholm":20190921T060000
+DTSTAMP:20190813T094223
+CREATED:20190813T092439Z
+LAST-MODIFIED:20190813T092439Z
+UID:4258779420-1569045600-1569045600@bohof.com
+SUMMARY:STRÄCKSKÅDNING BREDFJÄLLET
+DESCRIPTION:Idag ska vi bege oss upp i skogarna öster om Ljungskile och ställa oss i ett fågeltorn på norra fjället. Så här års är sträcket söderut omfattande av både tättingar och rovfåglar så vi hoppas på en god skådardag. Samling kl 06:00 vid Ljungskile station. Ta med fika. \nKontaktperson Stefan Malm 076-100 51 84. \n
+URL:http://bohof.com/evenemang/strackskadning-bredfjallet-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190924T173000
+DTEND;TZID="Europe/Stockholm":20190924T173000
+DTSTAMP:20190813T094223
+CREATED:20190813T092510Z
+LAST-MODIFIED:20190813T092510Z
+UID:4258779422-1569346200-1569346200@bohof.com
+SUMMARY:TISDAGSKVÄLL FRÅN UDDEVALLA
+DESCRIPTION:Vi träffas strax innan på Volvo Brandt på Fröland för att åka iväg kl 17:30 till en fågellokal som bestäms samma dag pga väder\, vind och utbud på fågel. Ta med fika. Kontaktperson Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/tisdagskvall-fran-uddevalla-7/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20190928T073000
+DTEND;TZID="Europe/Stockholm":20190928T150000
+DTSTAMP:20190813T094223
+CREATED:20190813T092549Z
+LAST-MODIFIED:20190813T092549Z
+UID:4258779424-1569655800-1569682800@bohof.com
+SUMMARY:MEDLEMSMÖTE PÅ HÅLLÖ
+DESCRIPTION:Beroende på vädret så går vi till vindskyddet och skådar därifrån eller strosar runt bland de få hus och buskar som finns för att hitta rastande flyttfåglar. Glöm inte att ta med bra skor och matsäck. \nBohOF bjuder på fika på själva mötet och på båtturen tur och retur.  \nSamling kl 07:30 vid Smögen norra hamnen och vi beräknar att vara tillbaka runt kl 14:00/15:00. \nAnmälan till Kenneth Johansson 070-231 65 91. \n
+URL:http://bohof.com/evenemang/medlemsmote-pa-hallo/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191003T180000
+DTEND;TZID="Europe/Stockholm":20191003T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T092623Z
+LAST-MODIFIED:20190813T092623Z
+UID:4258779426-1570125600-1570132800@bohof.com
+SUMMARY:HEMBAKT MED FÅGELSNACK
+DESCRIPTION:Vi träffas och pratar om vårt gemensamma intresse\, om fåglar. Sussie pratar om ett ämne som passar kvällen. Alla som kommer har med sig något hembakat och vi smakar på allt medan vi pratar om aktiviteterna som har varit och om det finns önskemål på några till våren. Vi är i Studiefrämjandets lokal på Junogatan 9. Anmälan senast 1/10 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/hembakt-med-fagelsnack/
+CATEGORIES:För kvinnor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191014
+DTSTAMP:20190813T094223
+CREATED:20190813T092709Z
+LAST-MODIFIED:20190813T092709Z
+UID:4258779428-1570579200-1571011199@bohof.com
+SUMMARY:HÖSTSTRÄCKET PÅ ÖLAND
+DESCRIPTION:Följ med och upplev det öländska fågellivet under höstens återflyttning. Även i år anordnar BohOF en resa under vecka 41. En höstvecka då gässen samlas i tiotusental inför sin flytt söderut\, och då markerna vimlar av kungsfåglar\, rödhakar och andra tättingar. Det sena vadarsträcket brukar också ha en del att bjuda på. Så hoppas vi på att ”snoka” upp en och annan raritet i buskagen också. Stor chans på taigasångare\, kungsfågelsångare och kanske även någon rar brunsångare!  I gåsflockarna kan vi kanske ”vaska” fram någon rödhalsad gås och ansamlingen av rovfåglar kan vissa år vara imponerande med sparvhök\, fjällvråk och kanske någon stäpphök eller stäppörn. Och någon överraskning brukar en höstresa oftast bjuda på. Höstresan skiljer sig från vårens resa på så sätt att de kortare dagarna gör skådningen bekvämare och ett lugnare tempo brukar infinna sig.  \nResan är till självkostnadspris. Vi bor i stugor på Allégården\, Kastlösa. Fika och middag betalar man själv och bilkostnaden delar vi på. Platserna är begränsade (max 8)\, Så\, först till kvarn … \nAnmälan till Kenneth Johansson 070-231 65 91. \n
+URL:http://bohof.com/evenemang/hoststracket-pa-oland/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191024T180000
+DTEND;TZID="Europe/Stockholm":20191024T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T092750Z
+LAST-MODIFIED:20190813T092756Z
+UID:4258779430-1571940000-1571947200@bohof.com
+SUMMARY:VACKRA MALLORCA
+DESCRIPTION:Sussie visar bilder på bl.a. vackra fåglar på vackra Mallorca. Ger tips inför resa dit på boende och fågellokaler man kan besöka. Kostnad 30:- och fika ingår. Vi är i Studiefrämjandets lokal på Junogatan 9. Anmälan senast 22/10 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/vackra-mallorca/
+CATEGORIES:För kvinnor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191102T083000
+DTEND;TZID="Europe/Stockholm":20191102T083000
+DTSTAMP:20190813T094223
+CREATED:20190813T092845Z
+LAST-MODIFIED:20190813T092845Z
+UID:4258779432-1572683400-1572683400@bohof.com
+SUMMARY:GÄSS OCH ÖRNAR VID HÄSTEFJORDEN
+DESCRIPTION:Vi tar oss runt i markerna kring Hästefjorden och bekantar oss med senhöstens kvardröjande fågelfauna. Det blir mycket gäss och svanar. Det blir även en del rovfåglar\, kanske fjällvråk\, havsörn och med lite tur även någon kungsörn. \nFör er som kommer från Uddevallahållet har vi samling för samåkning vid Blomsterlandet i Uddevalla kl 08:30. Sedan strålar vi samman vid Bygdegården\, Siviken ca kl 09:00. \nAnmälan till Kenneth Johansson 070-231 65 91. \n
+URL:http://bohof.com/evenemang/gass-och-ornar-vid-hastefjorden/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191105T180000
+DTEND;TZID="Europe/Stockholm":20191105T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T092924Z
+LAST-MODIFIED:20190813T092924Z
+UID:4258779434-1572976800-1572984000@bohof.com
+SUMMARY:ARTPORTALEN - FORTSÄTTNING
+DESCRIPTION:Gick ni på vår genomgång om artportalen ifjol har vi nu en fortsättning. Ni som inte har konto eller som har konto men inte var med ifjol är också välkomna då vi repeterar vissa delar. Vi kommer bl.a. att gå igenom hur man skapar ett konto\, bifogar bild\, lägger till medobservatörer\, ändrar fynd\, söker efter fynd\, skapar ny lokal\, skriver rapport m.m. Föredragshållare Per Wohlin och Sara Elg.  \nKostnad 30:- och fika ingår. Vi är i Studiefrämjandets lokal på Junogatan 9. Anmälan senast 4/11 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/artportalen-fortsattning/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191107T180000
+DTEND;TZID="Europe/Stockholm":20191107T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T093008Z
+LAST-MODIFIED:20190813T093008Z
+UID:4258779436-1573149600-1573156800@bohof.com
+SUMMARY:NYFIKEN PÅ ARTPORTALEN
+DESCRIPTION:Kanske har du ett konto och vill få några tips. Eller så vill du att vi skapar ett konto i kväll. Eller så vill du inte ha något konto utan vill bara komma för att lyssna. Alla är välkomna. Vi kommer att få veta hur vi rapporterar\, hur vi hittar på artportalen\, varför det är bra att rapportera. \nKostnad 30:- och fika ingår. Vi är i Studiefrämjandets lokal på Junogatan 9. Anmälan senast 5/11 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/nyfiken-pa-artportalen/
+CATEGORIES:För kvinnor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191112T180000
+DTEND;TZID="Europe/Stockholm":20191112T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T093101Z
+LAST-MODIFIED:20190813T093101Z
+UID:4258779438-1573581600-1573588800@bohof.com
+SUMMARY:FÅGELSKÅDNING GENOM KAMERAN – I LYSEKIL
+DESCRIPTION:I Lysekil visar lokalfotografen Patrik Eld bilder och pratar om sin fågelskådning genom kameran\, fota istället för att kryssa. Lite om själva fotandet och visar bilder med tillhörande beskrivningar från diverse fotoplatser så som t.ex. Gysinge\, Runde\, Hornborgasjön\, Stora Karlsö\, Sotehuvud\, båten\, skogen… \nBildvisningen börjar kl 18:00 i Lysekils Segelsällskaps lokaler. Kostnad 30:- och fika ingår.  \nAnmälan senast 10/11 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/fagelskadning-genom-kameran-i-lysekil/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191119T180000
+DTEND;TZID="Europe/Stockholm":20191119T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T093145Z
+LAST-MODIFIED:20190813T093145Z
+UID:4258779440-1574186400-1574193600@bohof.com
+SUMMARY:BILDVISNING FRÅN HÄRJEDALEN
+DESCRIPTION:Bilder av Per Wohlin och Sussie Carlström som visar bilder på fåglar och natur från Härjedalen med omnejd.  Kostnad 30:- och fika ingår. Vi är i Studiefrämjandets lokal på Junogatan 9. Anmälan senast 18/11 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/bildvisning-fran-harjedalen/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191128T180000
+DTEND;TZID="Europe/Stockholm":20191128T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T093221Z
+LAST-MODIFIED:20190813T093221Z
+UID:4258779442-1574964000-1574971200@bohof.com
+SUMMARY:FÅGELQUIZ
+DESCRIPTION:Fjolårets kväll blev en succé. I år kör vi igen med samma koncept. Frågorna är gjorda så att nybörjare får en lättare variant än vana skådare. Vi kommer att använda oss av texter\, bilder\, rebusar och latjolajban lådan. Kom och ha kul med tanken att alltid kan man lära sig något nytt. Kostnad 30:- och då ingår fika. Vi är i Studiefrämjandets lokal på Junogatan 9. Anmälan senast 26/11 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/fagelquiz/
+CATEGORIES:För kvinnor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191203T180000
+DTEND;TZID="Europe/Stockholm":20191203T200000
+DTSTAMP:20190813T094223
+CREATED:20190813T093259Z
+LAST-MODIFIED:20190813T093259Z
+UID:4258779444-1575396000-1575403200@bohof.com
+SUMMARY:BILDVISNING FRÅN RUNDE
+DESCRIPTION:Patrik Eld visar bilder från Runde i Norge. Förutom den älskade lunnefågeln och andra häckande sjöfåglar blir det bilder på unika blommor och vackra vyer. Patrik berättar om ön och dess möjligheter. Bildvisningen börjar kl 18:00 i Studiefrämjandets lokal på Junogatan 9. Kostnad 30:- och fika ingår. Anmälan senast 1/12 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/bildvisning-fran-runde/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191207T093000
+DTEND;TZID="Europe/Stockholm":20191207T103000
+DTSTAMP:20190813T094223
+CREATED:20190813T093345Z
+LAST-MODIFIED:20190813T093345Z
+UID:4258779446-1575711000-1575714600@bohof.com
+SUMMARY:VINTERFÅGLAR PÅ SVÄLTE KILE
+DESCRIPTION:Under cirka en timme i fågeltornet kollar vi vad för vinterfåglar som finns på denna lokal. Förra året fick vi se salskrake och hoppas på det även i år samt bergand.  \nKontaktperson Peter Nilsson 070-423 92 97. \n
+URL:http://bohof.com/evenemang/vinterfaglar-pa-svalte-kile/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="Europe/Stockholm":20191208T093000
+DTEND;TZID="Europe/Stockholm":20191208T103000
+DTSTAMP:20190813T094223
+CREATED:20190813T093430Z
+LAST-MODIFIED:20190813T093430Z
+UID:4258779448-1575797400-1575801000@bohof.com
+SUMMARY:VINTERFÅGLAR I UDDEVALLA HAMN
+DESCRIPTION:Vi spanar på övervintrande fåglar i hamnens öppna vatten och runt silon. Vi kan nog få se vigg\, smådopping och någon rovfågel som jagar i området. Vi bjuder på glögg och pepparkakor. Avslutas ca 10:30\, det beror på fågel och väder och kl 11:00 öppnar Gammaldags jultorg för de som vill vidare dit. Samling vid parkeringen på Svenskholmen\, Skeppsviken kl 09:30.  \nAnmälan senast 6/12 till Sussie Carlström 073-690 41 60. \n
+URL:http://bohof.com/evenemang/vinterfaglar-i-uddevalla-hamn/
+CATEGORIES:För kvinnor
+END:VEVENT
+END:VCALENDAR
